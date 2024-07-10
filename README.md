@@ -30,7 +30,4 @@ Welcome to the Bootstrap Projects repository! This repository contains various p
 
 **Live Demo:** [Hospital Webpage Live Link](https://ranaavh.github.io/Bootsrap-Projects/hospital/index.html)
 
-**Latest Commit:** Create Read.md [2 weeks ago]
-
-## Repository Structure
 
